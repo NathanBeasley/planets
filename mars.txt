@@ -1,9 +1,1 @@
-These are my notes about Mars
-
-Everything is my favorite color.
-
-Haha why am I copying him? No idea.
-
-I am a bit confused by the two-step process of git add and git commit. Why is this?
-
-This is cool.
+Now I can push to a remote repository.
